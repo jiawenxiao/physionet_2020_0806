@@ -1,4 +1,4 @@
-FROM nvidia/cuda:10.0-cudnn7.5-devel
+FROM pytorch/pytorch:1.4.0-cuda10.0-cudnn7.5-runtime
 
 ## The MAINTAINER instruction sets the Author field of the generated images
 MAINTAINER author@sample.com
