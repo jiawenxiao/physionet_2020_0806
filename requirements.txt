@@ -1,9 +1,7 @@
-numpy
-scipy
+numpy==1.17.4
+scipy==1.2.1
 joblib==0.13.2
-Cython
-pandas
-scikit-learn
+Cython==0.29.13
+pandas==0.25.3
+scikit-learn==0.21.3
 tqdm==4.32.1
-torch
-torchvision
